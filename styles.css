@@ -47,17 +47,14 @@ body{
   margin-top: 5px;
   margin-left: 50px;
   float: left;
-  /* padding: 2px; */
-  /* position: absolute; */
+  
 }
 
-/* .span{
-  margin-top: 50px; */
 
 .briefcase_text{
   position: absolute;
-  margin-top: 2px;
-  margin-left: 70px;
+  margin-top: -20px;
+  margin-left: 90px;
   /* margin-right: 930px; */
 }
 .Date{
