@@ -14,42 +14,50 @@ body{
 
 .mainbody_logo{
   position: relative;
+
   margin-top: 10px;
   margin-left: 50px;
+  margin-bottom: 10px;
   height: 78px;
 }
 
 .Top_Right_bar{
   height: 30px;
-  width: 101.5%;
+  /* width: 101.5%; */
   background-color: #ffbd59;
   border-style: none;
-  margin: 10px -20px;
-  position: absolute;
+  /* margin: 10px -20px; */
+  /* position: absolute; */
   /* z-index: -1; */
   text-align: center;
 
 }
 .Top_left_bar{
   height: 30px;
-  width: 51.9%;
+  /* width: 51.9% */
   background-color: #4B0082;
   border-style: none;
-  margin: 10px 649px;
-  position: absolute;
+  /* margin: 10px 649px; */
+  /* position: absolute; */
   /* z-index: -1; */
 }
 
 .briefcase{
   width: 18px;
   margin-top: 5px;
-  margin-left: 70px;
+  margin-left: 50px;
   float: left;
+  /* padding: 2px; */
+  /* position: absolute; */
 }
 
+/* .span{
+  margin-top: 50px; */
+
 .briefcase_text{
-  position: relative;
-  margin: 8px 1180px auto auto;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 70px;
   /* margin-right: 930px; */
 }
 .Date{
